@@ -34,8 +34,6 @@ The provided code should be saved as a Python file, for example:
 pathfinding_visualizer.py
 ```
 
-> If your file is currently named `import heapq.txt`, rename it to `pathfinding_visualizer.py` before running.
-
 ---
 
 ## Features
