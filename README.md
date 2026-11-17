@@ -28,12 +28,6 @@ An interactive Python application for visualizing and comparing classic pathfind
 
 Pathfinding Visualizer lets you draw walls, move start/goal nodes, and watch five different search algorithms explore the grid in real time. The sidebar displays live statistics such as nodes expanded, frontier size, path length, and execution time, alongside complexity information for the selected algorithm.
 
-The provided code should be saved as a Python file, for example:
-
-```bash
-pathfinding_visualizer.py
-```
-
 ---
 
 ## Features
