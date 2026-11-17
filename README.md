@@ -60,17 +60,17 @@ pathfinding_visualizer.py
 Install dependencies:
 
 ```bash
-pip install pygame
+pip install -r requirements.txt
 ```
 
 ---
 
 ## Running
 
-Save the script as `pathfinding_visualizer.py` and run:
+From the repository folder, run:
 
 ```bash
-python pathfinding_visualizer.py
+python gridsearch.py
 ```
 
 ---
@@ -122,7 +122,7 @@ A* and Greedy use the **Manhattan distance** heuristic, which is admissible for 
 ## Project Structure
 
 ```text
-pathfinding_visualizer.py
+gridsearch.py
 │
 ├── Node                 # Grid cell: row, col, wall, search state
 ├── get_neighbors()      # 4-directional neighbour generator
